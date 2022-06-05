@@ -1,0 +1,5 @@
+Name: Nataliya Truneuskaya
+Age: 27
+Pets: 0
+Salary: 1000
+
